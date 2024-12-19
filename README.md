@@ -1,1 +1,1 @@
-# 100_days_of_python_projects
+# 100_days_of_Python_projects
