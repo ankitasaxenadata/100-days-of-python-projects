@@ -6,7 +6,7 @@ This repository contains my Python projects from my 100 days learning series.
 
 ## Project List
 
-### Day 1: Band Name Generator
+### [Day 1: Band Name Generator](https://github.com/AnkitaSaxena8765693852/100-days-of-python-projects/blob/main/Day1_Band_Name_Generator.py)
 **Description:** A simple program to generate band names based on user input.  
 
 ## Code Snippets
@@ -20,7 +20,7 @@ b = input("What's your pet's name? \n")
 print("Your band name could be",a+" "+b)
 ```
 
-### Day 2: Tip Calculator
+### [Day 2: Tip Calculator](https://github.com/AnkitaSaxena8765693852/100-days-of-python-projects/blob/main/Day2_Tip_Calculator.py)
 **Description:** A program to calculate the tip amount based on the total bill and desired tip percentage.  
 **Date:** 2 days ago
 
