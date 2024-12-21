@@ -30,7 +30,6 @@ ASCII_Code =[("""
 ---.__(___)
 """)]
 
-
 if(user_input in [0,1,2]):
     print("User input",user_input)
     print("You Choose",ASCII_Code[user_input])
